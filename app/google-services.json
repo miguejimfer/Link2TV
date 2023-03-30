@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "762365649590",
+    "project_id": "link2tv-be6a7",
+    "storage_bucket": "link2tv-be6a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762365649590:android:4e241a96d134bd60193c17",
+        "android_client_info": {
+          "package_name": "com.pille1.link2tv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762365649590-7mplu8j53e9q472ukhd8gpn8pq4hc051.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXJPFIq7W8Dvd3DXxDmCUqeWKTcK4Q4M0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762365649590-7mplu8j53e9q472ukhd8gpn8pq4hc051.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
